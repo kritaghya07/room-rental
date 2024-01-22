@@ -1,0 +1,42 @@
+
+h1{
+    width: auto;
+    height: 150px;
+    border: 5px solid black;
+    padding: 40px;
+    text-align: center;
+    color: white;
+    background-color: rgb(12, 10, 8);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+}
+h3{
+    margin-top: -10%;
+    margin-left: 44%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3.cont{
+    color: white;
+    margin-top: -1%;
+    margin-left: 41%;
+
+}
+p{
+    width: auto;
+    height: 10px;
+    border: 5px solid grey;
+    color: rgb(149, 48, 48);
+    background-color: grey;
+    margin-top: 2%;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+span{
+    color: aliceblue;
+    text-decoration: underline;
+    
+}
